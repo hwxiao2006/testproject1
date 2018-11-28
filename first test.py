@@ -13,4 +13,4 @@ mycol.update_many({"name":"Tiger"},{"$set":{"name":["John","Mario"]}})
 for i in mycol.find():
     print(i)
 
-###test222
+###test333
